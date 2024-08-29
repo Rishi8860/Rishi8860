@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **rishik.8102001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wq46sdFEp9Xt8DzBR8xGlMyQoKYsNY8e/view?usp=drive_link](https://drive.google.com/file/d/1wq46sdFEp9Xt8DzBR8xGlMyQoKYsNY8e/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wq46sdFEp9Xt8DzBR8xGlMyQoKYsNY8e/view?usp=sharing]
+- Blogs [https://medium.com/@rishik.8102001]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
