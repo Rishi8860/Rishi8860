@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
-<h3 align="center">A passionate Data Scientist fro India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning , AI, Data Science**
 
